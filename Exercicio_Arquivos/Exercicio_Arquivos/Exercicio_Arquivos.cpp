@@ -26,8 +26,8 @@ int _tmain(void)
 	//inverte
 	Inverso(cfPtr, name);
 
+	
 	getchar();
-
 scanf("%d", aux);
 
 return 0;
