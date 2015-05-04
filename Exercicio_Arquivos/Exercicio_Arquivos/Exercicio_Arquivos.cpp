@@ -15,7 +15,7 @@ int _tmain(void)
 	char name [1000];
 	FILE *cfPtr = NULL;
 
-	//le arquivo
+	//le arquivo previamente salvo em jornal.txt
 	leitura(cfPtr, name);
 	printf("%s", " \n");
 	printf("%s", " \n");
